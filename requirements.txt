@@ -1,0 +1,9 @@
+PyYAML
+statsmodels
+matplotlib
+seaborn
+pandas
+scikit-learn
+xgboost 
+tensorflow == 2.17.1
+ipykernel
